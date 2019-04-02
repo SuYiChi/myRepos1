@@ -1,2 +1,2 @@
-��l�ɦW�� cust.txt
+﻿修改亂碼訊息 cust.txt
 修改cust.txt成為cust1.txt (在Git Hub上面改的)
