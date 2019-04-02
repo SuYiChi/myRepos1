@@ -30,7 +30,7 @@ namespace exam_01
             var Product = from p in Products
                           where p.type == "硬體"
                           select p;
-            MessageBox.Show(Product.ToList().First().name);
+            MessageBox.Show(Product.ToList().First().name.ToLower());
 
         }
     }
